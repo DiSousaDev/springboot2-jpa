@@ -1,4 +1,4 @@
-package com.diegosousadev.course.condig;
+package com.diegosousadev.course.config;
 
 import java.util.Arrays;
 
